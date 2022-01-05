@@ -1,0 +1,9 @@
+﻿  pch.cpp
+  CNote.cpp
+E:\IbrahimProject\My Projects\Remind_Me\CNote.h(5,1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  CNoteTime.cpp
+  Remind_Me.cpp
+  Remind_MeDlg.cpp
+E:\IbrahimProject\My Projects\Remind_Me\CNote.h(5,1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating Code...
+  Remind_Me.vcxproj -> E:\IbrahimProject\My Projects\Remind_Me\x64\Debug\Remind_Me.exe

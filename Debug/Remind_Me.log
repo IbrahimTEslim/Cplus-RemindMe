@@ -1,0 +1,9 @@
+﻿  pch.cpp
+  CNote.cpp
+  CNoteTime.cpp
+  Remind_Me.cpp
+  Remind_MeDlg.cpp
+C:\Users\Killua\Desktop\Remind_Me\CNote.h(5,1): warning C4067:  unexpected tokens following preprocessor directive - expected a newline
+  Generating Code...
+C:\Users\Killua\Desktop\Remind_Me\CNote.h(5,1): warning C4067:  unexpected tokens following preprocessor directive - expected a newline
+  Remind_Me.vcxproj -> C:\Users\Killua\Desktop\Remind_Me\Debug\Remind_Me.exe
